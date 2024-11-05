@@ -1,4 +1,5 @@
-На данный момент поддерживается только Linux/AMD64
+> [!IMPORTANT]
+> На данный момент поддерживается только Linux/AMD64
 
 Склонируйте к себе compose-файл:  
    ```git clone https://github.com/Frogger155/pet1-launch .```  
